@@ -16,6 +16,7 @@ payment integrations and the background processing around them.
 | Project | What it shows |
 | --- | --- |
 | [StripePaymentLinks.Api](https://github.com/Pathik1810/StripePaymentLinks.Api) | Invoice payments with Stripe Payment Links: signed webhooks, idempotent retries, payment ledger, reconciliation job |
+| [LegacyMigration.Net8](https://github.com/Pathik1810/LegacyMigration.Net8) | .NET Framework 4.8 MVC 5 / Web API 2 / EF6 app upgraded to ASP.NET Core 8 / EF Core 8: incremental migration behind YARP, API contract tests, migration write-up |
 
 **Contact**
 
